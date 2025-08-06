@@ -8,7 +8,7 @@
       <div class="absolute inset-0 bg-black opacity-60"></div>
       <div class="relative z-10">
         <img
-          src="./assets/chantha.jpg"
+          src="./assets/profile.jpg"
           alt="Chantha Touch"
           class="rounded-full shadow-lg border-4 border-blue-400 w-40 h-40 object-cover mx-auto mb-6"
         />
